@@ -11,4 +11,4 @@ droput, or lowering the default learning rate in the DDPG model did not improve 
 adding some regularization to the dense layers of the neural net and doubling the batch size improved
 my results.  I also adjusted other parameters.  See agents/agent.py and Quadcopter_Project.html
 for more information. The reward function I used in task.py was equal to 1 - 0.2*(|10 - x| - |10 - y| - |10 - z|).
-https://github.com/julie1/Teach-a-Quadcopter-How-to-Fly/blob/master/output_25_0.png
+![graph](
