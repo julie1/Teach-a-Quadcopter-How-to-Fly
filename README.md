@@ -16,4 +16,4 @@ taken by the drone) versus episode is shown in the following graph.
 
 
 
-![graph](output_25_0.png)
+![graph](score_vs_episode.png)
